@@ -1,0 +1,5 @@
+Es tracta de muntar una simulació de carro de la compra. L'aplicació contarà amb:
+- Un llistat de productes. Cada producte te un id, descripcio, categoria i preu.
+- Uns filtres per seleccionar només productes "barats". Un producte es considera barat si el seu importa és inferior al preu mig de totes els productes del catàleg.
+- Un carro de la compra amb els productes seleccionats ordenats per preu ascendent i l'import total.
+
