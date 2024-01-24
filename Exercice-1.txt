@@ -1,5 +1,12 @@
-Es tracta de muntar una simulació de carro de la compra. L'aplicació contarà amb:
-- Un llistat de productes. Cada producte te un id, descripcio, categoria i preu.
-- Uns filtres per seleccionar només productes "barats". Un producte es considera barat si el seu importa és inferior al preu mig de totes els productes del catàleg.
-- Un carro de la compra amb els productes seleccionats ordenats per preu ascendent i l'import total.
+L'Objectiu del exercici es implementar la funcionalitat de mostrar un llistat de productes en el cataleg.
+    - Es tenen que mostrar els productes com en el disseny mostrat
+    - Es tenen que mostrar els productes oredenats per preu ascendent
+    - Al fer click en un producte aquest te que desapareixer del llistat.
 
+Nota:
+- El llistat de productes s'obte amb la funcio getProducts() com es mostra a la App.tsx
+
+Es valora:
+    - Responsiveness
+    - Ajustarse al disseny
+    - Modularitzacio

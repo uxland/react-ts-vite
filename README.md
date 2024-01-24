@@ -1,6 +1,12 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+El projecte requereix tenir node instalat, es recomana version node 20 o compatible
+
+## Aixecar docker (Optiona)
+```
+docker compose up
+docker exec -it react-ts-vite-node-1 /bin/bash
+```
 
 ## Setup
 
@@ -8,3 +14,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 npm install
 npm run dev
 ```
+
+Pots accedir a la pagina a http://localhost:3000/
+
