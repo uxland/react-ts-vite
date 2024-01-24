@@ -5,6 +5,7 @@ L'Objectiu del exercici es implementar la funcionalitat de mostrar un llistat de
 
 Nota:
 - El llistat de productes s'obte amb la funcio getProducts() com es mostra a la App.tsx
+- Hi ha el disseny en escritori i mobil en imatges a la arrel del projecte, "desktop.png" i "mobile.png", respectivament. 
 
 Es valora:
     - Responsiveness
